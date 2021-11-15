@@ -1,2 +1,2 @@
 # Week04
- A program that counts the number of vowels in a file
+ This is a program that counts the number of vowels in a file and 3 more letters
